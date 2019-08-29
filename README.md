@@ -20,6 +20,8 @@ All performance numbers mentioned in the presentation are dependant on the perfo
 
 The workload generator reads the entire workload file before sending any transactions, and creates a thread per unique user. To simulate more than 300 unique users, multiple workload generators must be used as one workload generator is limited to 300 unique users.
 
+To view the full software development history of this project, please contact the author.
+
 ## Instructions
 
 1. Install all necessary requirements
