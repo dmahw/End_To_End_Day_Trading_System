@@ -1,0 +1,11 @@
+transactionServer/__pycache__/*
+transactionServer/logfile.xml
+transactionServer/logfile.xml.gz
+transactionServer/testLOG
+
+workloadGenerator/testWorkload
+workloadGenerator/1userWorkload
+workloadGenerator/10User_testWorkload
+workloadGenerator/100User_testWorkload
+workloadGenerator/1000User_testWorkload
+workloadGenerator/1000User_testWorkload.gz
