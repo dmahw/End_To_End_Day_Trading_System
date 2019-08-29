@@ -1,4 +1,4 @@
-End 2 End Day Trading System Python
+End To End Day Trading System Python
 ===================================
 
 ## Requirements
